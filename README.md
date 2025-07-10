@@ -1,4 +1,4 @@
-# 赔钱机场订阅服务说明
+# 赔钱机场官网地址
 
 最新地址：[赔钱机场.com](https://xn--cp3a08l.com/#/register?code=j9I2E2IK)
 
