@@ -9,7 +9,7 @@
   - 包含中转高速节点，0.01倍流量结算下载节点  
   - 不限制客户端数量，不限制速度  
   - 全线路安全加密，保护隐私安全  
-  - 已解锁Netflix、Disney+、TikTok、ChatGPT（其他流媒体请自测）  
+  - 已解锁Netflix、Disney+、TikTok、ChatGPT等
 
 
 
